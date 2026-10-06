@@ -1,0 +1,1011 @@
+{
+  "version": 1,
+  "previewOnly": false,
+  "source": "larry-pricing.mp4",
+  "frameCount": 64,
+  "width": 600,
+  "height": 700,
+  "mode": "both",
+  "loop": false,
+  "range": {
+    "start": 0,
+    "end": 5.166667
+  },
+  "padding": 0,
+  "layout": {
+    "columns": 9,
+    "rows": 8,
+    "perSheet": 72,
+    "sheets": 1,
+    "width": 5400,
+    "height": 5600,
+    "rawBytes": 120960000
+  },
+  "settings": {
+    "count": 64,
+    "width": 600,
+    "height": 700,
+    "start": 0,
+    "end": 5.166667,
+    "loop": false,
+    "format": "webp",
+    "quality": 88,
+    "lossless": false,
+    "effort": 4,
+    "compression": 6,
+    "mode": "both",
+    "video": "webm",
+    "videoMatte": [
+      255,
+      255,
+      255
+    ],
+    "columns": 0,
+    "padding": 0,
+    "background": {
+      "enabled": true,
+      "color": [
+        3,
+        229,
+        23
+      ],
+      "tolerance": 25,
+      "connected": false,
+      "softness": 0,
+      "contour": -1,
+      "defringe": 0,
+      "spill": 100,
+      "extraColors": [
+        {
+          "color": [
+            6,
+            222,
+            24
+          ],
+          "tolerance": 25,
+          "sourceIndex": null
+        },
+        {
+          "color": [
+            6,
+            193,
+            30
+          ],
+          "tolerance": 25,
+          "sourceIndex": null
+        },
+        {
+          "color": [
+            15,
+            192,
+            22
+          ],
+          "tolerance": 25,
+          "sourceIndex": null
+        }
+      ],
+      "strokes": []
+    }
+  },
+  "frames": [
+    {
+      "index": 0,
+      "sourceIndex": 0,
+      "timestamp": 0,
+      "file": "frame_00000.webp",
+      "bytes": 52860,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 1,
+      "sourceIndex": 2,
+      "timestamp": 0.083333,
+      "file": "frame_00001.webp",
+      "bytes": 52316,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 2,
+      "sourceIndex": 4,
+      "timestamp": 0.166667,
+      "file": "frame_00002.webp",
+      "bytes": 52386,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 3,
+      "sourceIndex": 6,
+      "timestamp": 0.25,
+      "file": "frame_00003.webp",
+      "bytes": 53786,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 4,
+      "sourceIndex": 8,
+      "timestamp": 0.333333,
+      "file": "frame_00004.webp",
+      "bytes": 52188,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 5,
+      "sourceIndex": 10,
+      "timestamp": 0.416667,
+      "file": "frame_00005.webp",
+      "bytes": 51624,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 6,
+      "sourceIndex": 12,
+      "timestamp": 0.5,
+      "file": "frame_00006.webp",
+      "bytes": 51494,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 7,
+      "sourceIndex": 14,
+      "timestamp": 0.583333,
+      "file": "frame_00007.webp",
+      "bytes": 53138,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 8,
+      "sourceIndex": 16,
+      "timestamp": 0.666667,
+      "file": "frame_00008.webp",
+      "bytes": 52108,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 0,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 9,
+      "sourceIndex": 18,
+      "timestamp": 0.75,
+      "file": "frame_00009.webp",
+      "bytes": 52202,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 10,
+      "sourceIndex": 20,
+      "timestamp": 0.833333,
+      "file": "frame_00010.webp",
+      "bytes": 52216,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 11,
+      "sourceIndex": 21,
+      "timestamp": 0.875,
+      "file": "frame_00011.webp",
+      "bytes": 52178,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 12,
+      "sourceIndex": 23,
+      "timestamp": 0.958333,
+      "file": "frame_00012.webp",
+      "bytes": 52226,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 13,
+      "sourceIndex": 25,
+      "timestamp": 1.041667,
+      "file": "frame_00013.webp",
+      "bytes": 52224,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 14,
+      "sourceIndex": 27,
+      "timestamp": 1.125,
+      "file": "frame_00014.webp",
+      "bytes": 52422,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 15,
+      "sourceIndex": 29,
+      "timestamp": 1.208333,
+      "file": "frame_00015.webp",
+      "bytes": 52420,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 16,
+      "sourceIndex": 31,
+      "timestamp": 1.291667,
+      "file": "frame_00016.webp",
+      "bytes": 52376,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 17,
+      "sourceIndex": 33,
+      "timestamp": 1.375,
+      "file": "frame_00017.webp",
+      "bytes": 52446,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 700,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 18,
+      "sourceIndex": 35,
+      "timestamp": 1.458333,
+      "file": "frame_00018.webp",
+      "bytes": 52856,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 19,
+      "sourceIndex": 37,
+      "timestamp": 1.541667,
+      "file": "frame_00019.webp",
+      "bytes": 54220,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 20,
+      "sourceIndex": 39,
+      "timestamp": 1.625,
+      "file": "frame_00020.webp",
+      "bytes": 51364,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 21,
+      "sourceIndex": 41,
+      "timestamp": 1.708333,
+      "file": "frame_00021.webp",
+      "bytes": 50480,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 22,
+      "sourceIndex": 43,
+      "timestamp": 1.791667,
+      "file": "frame_00022.webp",
+      "bytes": 50306,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 23,
+      "sourceIndex": 45,
+      "timestamp": 1.875,
+      "file": "frame_00023.webp",
+      "bytes": 50350,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 24,
+      "sourceIndex": 47,
+      "timestamp": 1.958333,
+      "file": "frame_00024.webp",
+      "bytes": 50750,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 25,
+      "sourceIndex": 49,
+      "timestamp": 2.041667,
+      "file": "frame_00025.webp",
+      "bytes": 50644,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 26,
+      "sourceIndex": 51,
+      "timestamp": 2.125,
+      "file": "frame_00026.webp",
+      "bytes": 50538,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 1400,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 27,
+      "sourceIndex": 53,
+      "timestamp": 2.208333,
+      "file": "frame_00027.webp",
+      "bytes": 50344,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 28,
+      "sourceIndex": 55,
+      "timestamp": 2.291667,
+      "file": "frame_00028.webp",
+      "bytes": 50858,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 29,
+      "sourceIndex": 57,
+      "timestamp": 2.375,
+      "file": "frame_00029.webp",
+      "bytes": 50924,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 30,
+      "sourceIndex": 59,
+      "timestamp": 2.458333,
+      "file": "frame_00030.webp",
+      "bytes": 50434,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 31,
+      "sourceIndex": 61,
+      "timestamp": 2.541667,
+      "file": "frame_00031.webp",
+      "bytes": 50524,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 32,
+      "sourceIndex": 62,
+      "timestamp": 2.583333,
+      "file": "frame_00032.webp",
+      "bytes": 50788,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 33,
+      "sourceIndex": 64,
+      "timestamp": 2.666667,
+      "file": "frame_00033.webp",
+      "bytes": 50978,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 34,
+      "sourceIndex": 66,
+      "timestamp": 2.75,
+      "file": "frame_00034.webp",
+      "bytes": 51000,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 35,
+      "sourceIndex": 68,
+      "timestamp": 2.833333,
+      "file": "frame_00035.webp",
+      "bytes": 51354,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 2100,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 36,
+      "sourceIndex": 70,
+      "timestamp": 2.916667,
+      "file": "frame_00036.webp",
+      "bytes": 50368,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 37,
+      "sourceIndex": 72,
+      "timestamp": 3,
+      "file": "frame_00037.webp",
+      "bytes": 50918,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 38,
+      "sourceIndex": 74,
+      "timestamp": 3.083333,
+      "file": "frame_00038.webp",
+      "bytes": 50530,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 39,
+      "sourceIndex": 76,
+      "timestamp": 3.166667,
+      "file": "frame_00039.webp",
+      "bytes": 50640,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 40,
+      "sourceIndex": 78,
+      "timestamp": 3.25,
+      "file": "frame_00040.webp",
+      "bytes": 50844,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 41,
+      "sourceIndex": 80,
+      "timestamp": 3.333333,
+      "file": "frame_00041.webp",
+      "bytes": 50920,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 42,
+      "sourceIndex": 82,
+      "timestamp": 3.416667,
+      "file": "frame_00042.webp",
+      "bytes": 50760,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 43,
+      "sourceIndex": 84,
+      "timestamp": 3.5,
+      "file": "frame_00043.webp",
+      "bytes": 50612,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 44,
+      "sourceIndex": 86,
+      "timestamp": 3.583333,
+      "file": "frame_00044.webp",
+      "bytes": 50528,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 2800,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 45,
+      "sourceIndex": 88,
+      "timestamp": 3.666667,
+      "file": "frame_00045.webp",
+      "bytes": 50988,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 46,
+      "sourceIndex": 90,
+      "timestamp": 3.75,
+      "file": "frame_00046.webp",
+      "bytes": 50632,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 47,
+      "sourceIndex": 92,
+      "timestamp": 3.833333,
+      "file": "frame_00047.webp",
+      "bytes": 50708,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 48,
+      "sourceIndex": 94,
+      "timestamp": 3.916667,
+      "file": "frame_00048.webp",
+      "bytes": 51024,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 49,
+      "sourceIndex": 96,
+      "timestamp": 4,
+      "file": "frame_00049.webp",
+      "bytes": 51188,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 50,
+      "sourceIndex": 98,
+      "timestamp": 4.083333,
+      "file": "frame_00050.webp",
+      "bytes": 50724,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 51,
+      "sourceIndex": 100,
+      "timestamp": 4.166667,
+      "file": "frame_00051.webp",
+      "bytes": 50558,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 52,
+      "sourceIndex": 102,
+      "timestamp": 4.25,
+      "file": "frame_00052.webp",
+      "bytes": 50150,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 53,
+      "sourceIndex": 103,
+      "timestamp": 4.291667,
+      "file": "frame_00053.webp",
+      "bytes": 49856,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 3500,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 54,
+      "sourceIndex": 105,
+      "timestamp": 4.375,
+      "file": "frame_00054.webp",
+      "bytes": 50140,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 55,
+      "sourceIndex": 107,
+      "timestamp": 4.458333,
+      "file": "frame_00055.webp",
+      "bytes": 50950,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 600,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 56,
+      "sourceIndex": 109,
+      "timestamp": 4.541667,
+      "file": "frame_00056.webp",
+      "bytes": 52050,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1200,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 57,
+      "sourceIndex": 111,
+      "timestamp": 4.625,
+      "file": "frame_00057.webp",
+      "bytes": 52160,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 1800,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 58,
+      "sourceIndex": 113,
+      "timestamp": 4.708333,
+      "file": "frame_00058.webp",
+      "bytes": 53600,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 2400,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 59,
+      "sourceIndex": 115,
+      "timestamp": 4.791667,
+      "file": "frame_00059.webp",
+      "bytes": 53668,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3000,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 60,
+      "sourceIndex": 117,
+      "timestamp": 4.875,
+      "file": "frame_00060.webp",
+      "bytes": 52214,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 3600,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 61,
+      "sourceIndex": 119,
+      "timestamp": 4.958333,
+      "file": "frame_00061.webp",
+      "bytes": 52052,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4200,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 62,
+      "sourceIndex": 121,
+      "timestamp": 5.041667,
+      "file": "frame_00062.webp",
+      "bytes": 53464,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 4800,
+        "y": 4200,
+        "width": 600,
+        "height": 700
+      }
+    },
+    {
+      "index": 63,
+      "sourceIndex": 123,
+      "timestamp": 5.125,
+      "file": "frame_00063.webp",
+      "bytes": 53526,
+      "sheet": "sheet_000.webp",
+      "rect": {
+        "x": 0,
+        "y": 4900,
+        "width": 600,
+        "height": 700
+      }
+    }
+  ],
+  "sheets": [
+    {
+      "file": "sheet_000.webp",
+      "width": 5400,
+      "height": 5600,
+      "bytes": 3242786
+    }
+  ],
+  "sequenceBytes": 3297094,
+  "sheetBytes": 3242786,
+  "videos": [
+    {
+      "file": "video.webm",
+      "mime": "video/webm",
+      "codec": "vp9",
+      "alpha": true,
+      "width": 600,
+      "height": 700,
+      "duration": 5.166667,
+      "audio": false,
+      "bytes": 585227
+    }
+  ]
+}
